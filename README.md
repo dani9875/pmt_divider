@@ -14,3 +14,6 @@ Changelog:
 - Initial PCB design to replicate functionality of a PMT resistor divider circuitry. 
 
 Disclaimer: The PCB described herein has not been manufactured or tested. Users are advised to thoroughly review all design and manufacturing files prior to any application or implementation. If you happen to find any design flaws or problems, please contact me.
+
+## List of potentional improvements
+- [ ] Release artifact manf. output resistor does not get rendered
